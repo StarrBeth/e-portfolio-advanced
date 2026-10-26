@@ -62,7 +62,7 @@ input:hover, textarea:hover {
 }
 
 input:focus, textarea:focus {
-  border-color: #f06449;
+  border-color: #ee730f;
 }
 
 .container {
@@ -415,8 +415,8 @@ nav {
 }
 
 .form__submit {
-  background-color: #f06449;
-  border: 2px solid #f06449;
+  background-color: #ee730f;
+  border: 2px solid #ee730f;
   color: white;
   font-weight: 700;
   width: 100%;
@@ -432,8 +432,8 @@ nav {
 }
 
 .form__submit:active {
-  border-color: #f06449;
-  color: #f06449;
+  border-color: #ee730f;
+  color: #ee730f;
 }
 
 .modal__overlay {
