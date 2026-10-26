@@ -7,6 +7,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 li {
   list-style-type: none;
 }
@@ -94,7 +98,7 @@ input:focus, textarea:focus {
 }
 
 .orange {
-  color: #f06449 !important;
+  color: #ee730f !important;
 }
 
 .link__hover-effect {
@@ -198,7 +202,7 @@ nav,
 }
 
 .social__link {
-  background-color: #f06449;
+  background-color: #ee730f;
   color: white;
   padding: 6px;
   width: 32px;
@@ -635,6 +639,7 @@ SHAPES
 .shape--4 {
   top: 50vh;
   left: 50vw;
+  display: none;
 }
 .shape--5 {
   top: 50vh;
